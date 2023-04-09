@@ -1,1 +1,1 @@
-# bharat-inern
+# bharat-intern
